@@ -1,0 +1,25 @@
+.bar{
+    width: 100%;
+    background: #129;
+    display: flex;
+    justify-content: space-around;
+    top: 0;
+    padding: 6px;
+    
+}
+.nav{
+    width: 35%;
+    display: flex;
+    justify-content: space-between;
+    vertical-align: middle;
+    font-family: serif;
+    font-size: 15pt;
+    color: #fff;
+}
+.acnt{
+    width: 18%;
+    text-align: center;
+    font-family: serif;
+    font-size: 15pt;
+    color: #fff;
+}
